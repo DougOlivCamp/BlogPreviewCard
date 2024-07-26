@@ -1,0 +1,91 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: orange;
+}
+
+.card {
+    box-shadow: 6px 6px 0px #000;
+    width: 386px;
+    height: 522px;
+    margin: auto;
+    margin-top: 150px;
+    border: 2px solid;
+    border-radius: 10px;
+    background-color: #FFF;
+}
+
+.img01 {    
+    border-radius: 30px;
+    padding: 20px 20px;   
+    margin: 0px 3px;
+}
+
+button {    
+    background: #F4D04E;
+    border-radius: 5px;
+    border: 1px solid;
+    margin: 4px 0 0 24px;
+    padding: 2px 2px;
+    font-family: "Ubuntu", sans-serif;
+}
+
+.p01 {
+    font-family: "Ubuntu", sans-serif;
+    margin: 12px 0px 0px 24px;
+} 
+
+h1 {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 700;
+    margin: 12px 0px 0px 24px;
+}
+
+.p02 {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    margin: 13px 0px 0px 24px;
+}
+
+.div02 {
+    padding: 13px 0 0 24px;
+}
+
+.img02, .p03 {
+    display: inline-block;
+    vertical-align: middle;    
+}
+
+.p03 {    
+    font-family: "Ubuntu", sans-serif;
+    font-weight: bold 300;
+    font-style: normal;
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+
+@media (max-width: 800px) {
+    
+    body {
+        width: 100%;
+    }
+
+   
+
+    
+
+    h1 {
+        color: aqua;
+    }
+}
+
+
+
+
+
