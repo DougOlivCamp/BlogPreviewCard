@@ -2,6 +2,7 @@
     box-sizing: border-box;
     padding: 0px;
     margin: 0px;
+    font-family: "Ubuntu", sans-serif;
 }
 
 body {
@@ -31,22 +32,18 @@ button {
     border: 1px solid;
     margin: 4px 0 0 24px;
     padding: 2px 2px;
-    font-family: "Ubuntu", sans-serif;
 }
 
 .p01 {
-    font-family: "Ubuntu", sans-serif;
     margin: 12px 0px 0px 24px;
 } 
 
 h1 {
-    font-family: "Ubuntu", sans-serif;
     font-weight: 700;
     margin: 12px 0px 0px 24px;
 }
 
 .p02 {
-    font-family: "Ubuntu", sans-serif;
     font-weight: 300;
     font-style: normal;
     margin: 13px 0px 0px 24px;
@@ -62,7 +59,7 @@ h1 {
 }
 
 .p03 {    
-    font-family: "Ubuntu", sans-serif;
+    
     font-weight: bold 300;
     font-style: normal;
     font-size: 20px;
